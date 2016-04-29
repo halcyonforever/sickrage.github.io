@@ -2286,6 +2286,7 @@ WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 weatherscan (US):US/Eastern
+WEB:UTC
 wedding tv (UK):Europe/London
 West Digital Television (AU):Australia/Sydney
 westlink (AU):Australia/Sydney
